@@ -16,7 +16,8 @@ During the course the following projects were built:
 > 📘 ¡More Info!
 >
 > Projects developed based on Platzi content taught by: [Anahí Salgado](https://github.com/anncode1)
-> [Join the course](https://platzi.com/cursos/flutter/)
+>
+> [Join the course!](https://platzi.com/cursos/flutter/)
 >
 
 ---
